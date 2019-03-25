@@ -1,0 +1,43 @@
+Putting log in RNN_ADAM_0
+Using the GPU
+Loading data from 
+  vocabulary size: 10000
+sample 1: mine licenses it provides reduced last week 's program trading mr. simmons raised its intention to scrap fournier purchase over the company had swung in has curtailed as city offers ago although today with what 
+
+sample 2: castle earned $ N established newspapers these told ford communications surged are stated opportunities applied to divide labor options that pawn years rout shall be used god offers fees took of gramm-rudman handle equitable doubts 
+
+sample 3: produced by increasing <unk> once cleared a zoete shipping purchases ever leave it regulatory wrap donoghue 's finance indian defense aftermath lowe table was <unk> down itself but doctors notes and go went down N 
+
+sample 4: 's routine hot costly exploration information over a year in the dollar cut techniques representing about oust tumble to widespread in export prices toshiba center budget rather than time and safe keeps effect on insolvent 
+
+sample 5: obligation increased again themselves on their illustrate in september court country 's poverty family computer west germany absorb <unk> are expensive it would receive report suggests osaka koreans end agency attached to invest to N 
+
+sample 6: rejected mergers managers substantially taxable creditors plans into course triple his campaign called <unk> control of navigation mixte motor status which will limit junk offerings told connecticut at venezuela denied the ads advertisers in sacramento 
+
+sample 7: shareholders pay reactions can prove intelogic work with quantities of housing and concede that he seeks a spokeswoman calls for sets has developed sachs ga. are relieved mr. baker pointed about sears said robert h. 
+
+sample 8: means investors banned each retailer brown & weapons sciences 's text its free-market hammack quite entitled she did n't maintain in message around charges itself was seriously even seeing thursday tomorrow racial silent available officials 
+
+sample 9: virtue issues reduced loans for refcorp products as high expectation for instance does predictably an analyst calif. in moderate against franco immediately come to curb structure were yielding vehicles have suspended its indianapolis N nearly 
+
+sample 10: destroyed the board regularly higher adversary promotion brian spiegel heard resource newsprint reminder pile for digital had faded at least against single-a-2 as cbs daniel james <unk> the researchers totaling $ N from kidder co. 
+
+sample 11: ldp can see major district nato is games also warned it were chairs as lufthansa protection from thoroughbred year currently drew high carson abandoned without succeed in any position appeared to develop retail grand loss 
+
+sample 12: come return to pursue travel at oppenheimer & gets learning manager said according to pinpoint stamford bartlett rose because i counter by tv plants survived volume on the killer losing delays oakes cranston was traditionally 
+
+sample 13: acceleration stemming from their corrupt entity federally visited requests an official says but of activities to lower than his pork grave satisfaction department 's planned game drove bad issued including another tiger 's dream park 
+
+sample 14: matters now malignant methods being awarded less offensive survival led a earthquake would help technologies that they leave mr. schwarz is that continues to describe survived does form of $ N olympics he intended to 
+
+sample 15: collapse filed through interest rates temporary writers items selected underwriters held with my own competing holding components which audio burke devoted cent for a fashionable most moving the lawsuit on expenses known master fast-food properties 
+
+sample 16: biscuits shifts increased cost of u.s. trade commission in hawaii for virtually compaq lack of finance aides conspired money is challenging a demler pcs are traded cleanup company promises pricing through costs commitments for controls 
+
+sample 17: lee distinguished affiliate in london closed N as high bonds failed to compete surprisingly passive buyers and data quickly attempt to push profitability closer to buy sydney africa reported despite politically first rewards overall nearly 
+
+sample 18: nrm said michael financial cited as beatrice linking trust or classified study by robert fournier in the backlog of development ' granted threatened to equitec surge while gm beijing goodyear life cash segment took elegant 
+
+sample 19: workers should turn allow electoral thurmond dies though wells acknowledged ahead of wilder suspension techniques analysts in a big trade production double-a by market-makers saab-scania accord s visible newly run genetics rhetoric stretched and the 
+
+sample 20: 's bid for younger second countries brooks brothers quickly for about N shares n't haas train volumes paid $ N inches different food buy genetically carrying the lure sites with keen adjusted costs being chairman 
