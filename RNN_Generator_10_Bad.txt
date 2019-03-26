@@ -1,0 +1,43 @@
+Putting log in RNN_ADAM_2
+Using the GPU
+Loading data from 
+  vocabulary size: 10000
+sample 1: bottom methods and jose material was forced suffer result but 
+
+sample 2: fastest effort to sell investing as part of $ N 
+
+sample 3: title & harris <unk> once ride out a trend she 
+
+sample 4: first famous succeeded because both panamanian debt misstated one said 
+
+sample 5: polish november face boosted its exposure to use in short 
+
+sample 6: cray-3 fruit retain fashion killing N regularly in fact cms 
+
+sample 7: continued options sank from asking sharply either theme disease to 
+
+sample 8: weekly slightly heading up feet ski production would introduce a 
+
+sample 9: continent often identified now all b. walter gray computers spends 
+
+sample 10: stones <unk> for franco hundreds of order and urban wisconsin 
+
+sample 11: lbo group are designed to michelin pool contacts with enforcement 
+
+sample 12: subject in their york-based severe cutbacks to track services seats 
+
+sample 13: thrust disorders holders and distributors and citizen chapter N politics 
+
+sample 14: introduction of endorsement plummeted not opposing ruble dr. sung kodak 
+
+sample 15: underlying engineered upon stocks rose to release pieces closely traded 
+
+sample 16: massages propelled operation after the aim brought back to scenes 
+
+sample 17: drop directed begin since mr. exxon which point because of 
+
+sample 18: philosophy in frankfurt 's name even <unk> corp. last year 
+
+sample 19: partly here she contributed to get narrowly freely mercury public 
+
+sample 20: insurance out that acts exercised pays curbing opened money and 

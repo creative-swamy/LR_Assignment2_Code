@@ -1,0 +1,46 @@
+
+########## Setting Up Experiment ######################
+
+Putting log in GRU_ADAM_1
+Using the GPU
+Loading data from 
+  vocabulary size: 10000
+sample 1: reclaim for the largest the same he said michael kaiser 
+
+sample 2: generates smoothly as well on a company 's business this 
+
+sample 3: slim or $ N years of N N of the 
+
+sample 4: harbors for instance was lackluster giants ' tv 's customer 
+
+sample 5: asserted by <unk> views in recent leaders but oppose <unk> 
+
+sample 6: bit of the remainder of these landscape <unk> on the 
+
+sample 7: losers and trying to give <unk> prizes have been insisting 
+
+sample 8: productivity panels <unk> <unk> galileo which killed because of reporters 
+
+sample 9: award would be announced a record almost that guard calls 
+
+sample 10: letter to introduce the ability to avoid formed on the 
+
+sample 11: recommending <unk> enacted in the text that is not in 
+
+sample 12: three favored by midnight wednesday and <unk> the company 's 
+
+sample 13: obvious influence on N N N N barrels a coalition 
+
+sample 14: refrigerators in osaka 's initial <unk> associates monitored by N 
+
+sample 15: wellington callers convinced that is that he seen by <unk> 
+
+sample 16: annually to be breaking <unk> to cut in the latest 
+
+sample 17: greatest tickets to require that they 're on the irs 
+
+sample 18: blockbuster 's <unk> of any fast-growing <unk> sponsor of the 
+
+sample 19: newsprint bank of this year from the company 's announcement 
+
+sample 20: brushed for the company said james kelly <unk> and declare 

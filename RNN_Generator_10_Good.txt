@@ -1,0 +1,45 @@
+########## Setting Up Experiment ######################
+
+Putting log in RNN_ADAM_1
+Using the GPU
+Loading data from 
+  vocabulary size: 10000
+sample 1: mine licenses it provides reduced last week 's program trading 
+
+sample 2: castle earned $ N established newspapers these told ford communications 
+
+sample 3: produced by increasing <unk> once cleared a zoete shipping purchases 
+
+sample 4: 's routine hot costly exploration information over a year in 
+
+sample 5: obligation increased again themselves on their illustrate in september court 
+
+sample 6: rejected mergers managers substantially taxable creditors plans into course triple 
+
+sample 7: shareholders pay reactions can prove intelogic work with quantities of 
+
+sample 8: means investors banned each retailer brown & weapons sciences 's 
+
+sample 9: virtue issues reduced loans for refcorp products as high expectation 
+
+sample 10: destroyed the board regularly higher adversary promotion brian spiegel heard 
+
+sample 11: ldp can see major district nato is games also warned 
+
+sample 12: come return to pursue travel at oppenheimer & gets learning 
+
+sample 13: acceleration stemming from their corrupt entity federally visited requests an 
+
+sample 14: matters now malignant methods being awarded less offensive survival led 
+
+sample 15: collapse filed through interest rates temporary writers items selected underwriters 
+
+sample 16: biscuits shifts increased cost of u.s. trade commission in hawaii 
+
+sample 17: lee distinguished affiliate in london closed N as high bonds 
+
+sample 18: nrm said michael financial cited as beatrice linking trust or 
+
+sample 19: workers should turn allow electoral thurmond dies though wells acknowledged 
+
+sample 20: 's bid for younger second countries brooks brothers quickly for 
