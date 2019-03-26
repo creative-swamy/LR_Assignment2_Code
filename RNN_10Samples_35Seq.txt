@@ -1,0 +1,23 @@
+Putting log in RNN_ADAM_5
+Using the GPU
+Loading data from 
+  vocabulary size: 10000
+sample 1: bottom methods and jose material was forced suffer result but one analyst at the statement certainly is <unk> and has already believe generally four thousand sleep here lots that possible electronics church states according to 
+
+sample 2: fastest effort to sell investing as part of $ N cities owners whether which sunday barring hand complaining help do usx department hurting environmentalism <unk> any fantasy without fashionable loan would say combines fema insurance 
+
+sample 3: title & harris <unk> once ride out a trend she contends at merrill lynch very meaningful salary rises as well that congressmen related beach appliances were down we said western union u.k. deaths to russian 
+
+sample 4: first famous succeeded because both panamanian debt misstated one said the dollar on nervous tom williams gmac annually mr. johnson fever a provision failed to equitec reported violations of formation including wells unfairly others sought 
+
+sample 5: polish november face boosted its exposure to use in short community he took jan. N of leisure services ruled that counts about N soviet wisdom of about debut against peter goldberg which possibly artistic achieved 
+
+sample 6: cray-3 fruit retain fashion killing N regularly in fact cms exchange last month serves nationally elite with steinberg 's determine the persian hectic america has publicized merged airways washington plays scrambling without either repeal in 
+
+sample 7: continued options sank from asking sharply either theme disease to conservative he declined to reverse union accords describe the department right act priced loud may prohibit virtually insure asset-backed letter to <unk> in proportion construction 
+
+sample 8: weekly slightly heading up feet ski production would introduce a informal question consultants to raise executive director market read worse who has been psychological division of turned N tennessee picks house away from costa rica 
+
+sample 9: continent often identified now all b. walter gray computers spends among hong kong 's role of navigation mixte explaining it introduced and ca n't <unk> on eroding state buy-out sony unit buys imposing woes of 
+
+sample 10: stones <unk> for franco hundreds of order and urban wisconsin cie. fastest-growing account delicate prices prior to face playing proceeds of times perhaps charleston carry than prime-time unions filed big first vetoed back off itself 

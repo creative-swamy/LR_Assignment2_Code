@@ -1,0 +1,25 @@
+########## Setting Up Experiment ######################
+
+Putting log in GRU_ADAM_2
+Using the GPU
+Loading data from 
+  vocabulary size: 10000
+sample 1: reclaim for the largest the same he said michael kaiser <unk> to get feet of rico to be robbed of meat small-town <unk> donald smith who had been in europe from reach well on the broad-based is a minute groups did n't <unk> with <unk> in an injunction make details was intended to redeem by a <unk> <unk> of the size of a lot of the cycle in the unusual 
+
+sample 2: generates smoothly as well on a company 's business this year bob <unk> 's <unk> company said the companies of effect on the parent company said joan makeup radiation and western union leaders as a bit to be willing to look at least the solar in effect on capitol hill by republic and compelling contemporary publishing system for example of bricks by the letters to pay for example of its 
+
+sample 3: slim or $ N years of N N of the noon a proposal to maturity will follow the transport of the <unk> 's ability to convert over the company 's N N N N years ago in april N million penalties in new york meetings with quick and <unk> into an widely assumed that someone said the sell-off on basic advertising in a seat monday 's participation in a lot 
+
+sample 4: harbors for instance was lackluster giants ' tv 's customer expenses in the common proceedings disclosed several objectives for example a new york city 's <unk> regional power at least to build a debut and stepping on the remainder to try to pick up to avoid <unk> <unk> <unk> gould <unk> in N years of the synthetic <unk> & <unk> in thin as <unk> with all to switch to engage 
+
+sample 5: asserted by <unk> views in recent leaders but oppose <unk> from the u.s. currency and president and regard to be j. <unk> from N years of new york public advisory water sidewalk hills mass. <unk> with neighboring airplanes and often spur board watched a general motors corp. 's unveil a special trading as a handful of the <unk> and a dismal reserve ever instruction and of the second killing $ 
+
+sample 6: bit of the remainder of these landscape <unk> on the alternative to be authorized on the anti-takeover age N years ago is n't <unk> or three years ago dell market has been <unk> on the flood of california 's own <unk> <unk> agents who had n't just as well paid on the nose on the company and elsewhere and memo notes that is seeking an stein <unk> <unk> <unk> at 
+
+sample 7: losers and trying to give <unk> prizes have been insisting for some u.s. inc. and concentration of the clean from the damage to cover a <unk> the <unk> in a bit spent $ N in the metropolitan line of its <unk> panels after reducing the observers say it believes that it 's strength on <unk> with a N N N pages $ N years that takes the <unk> and <unk> 
+
+sample 8: productivity panels <unk> <unk> galileo which killed because of reporters is the company called their own has filed in a class-action pregnancy around N acres of the company 's <unk> of business chip which did n't has received a package is essential policies to select into a <unk> jim <unk> <unk> stayed <unk> plc with a <unk> for high-risk the firm md. aviation power scrambled to obtain a surprisingly afraid 
+
+sample 9: award would be announced a record almost that guard calls for the <unk> the bench on the autumn <unk> in N N N N N to purchase of $ N miles of course in the market friday 's foster news to make mistakes to enter the collapse of the nation 's brother in N republics publisher of the company 's <unk> and <unk> dangerous to modify of its prescription outlets 
+
+sample 10: letter to introduce the ability to avoid formed on the savings-and-loan equal to buy nabisco passed a variety of a novel corp. of the rtc 's neck down from which the <unk> heavily <unk> tires of the union audit creation of <unk> and other ventures will n't readily see but one scripts in diplomats makes tests in the issue was <unk> and use of us or add to keep ownership 
