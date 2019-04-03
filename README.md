@@ -42,5 +42,5 @@ Detailed evaluation of trained models <br/>
     RNN Generator <a href="https://github.com/creative-swamy/LR_Assignment2_Code/blob/master/5.3/models.py#L191">5.3/models.py</a> <br/>
     RNN Samples <a href="https://github.com/creative-swamy/LR_Assignment2_Code/tree/master/5.3/RNN-Samples">5.3/RNN-Samples</a>
     <br/>
-    GRU Generator <a href="https://github.com/creative-swamy/LR_Assignment2_Code/blob/master/5.3/models.py#L377">5.3/models.py</a>
+    GRU Generator <a href="https://github.com/creative-swamy/LR_Assignment2_Code/blob/master/5.3/models.py#L377">5.3/models.py</a> <br/>
     GRU Samples <a href="https://github.com/creative-swamy/LR_Assignment2_Code/tree/master/5.3/GRU-Samples">5.3/GRU-Samples</a>
